@@ -88,4 +88,8 @@ body {
   height: 350px;
   background-color: white;
   border-radius: 20px;
+}
+.nft-container .box-nft1 img {
+  width: 100%;
+  border-radius: 10px;
 }/*# sourceMappingURL=style.css.map */
