@@ -87,12 +87,12 @@ body {
   position: relative;
 }
 .nft-container .box-nft1 {
-  width: 100%;
+  width: 90%;
   height: 365px;
   background-color: white;
   border-radius: 20px;
   position: absolute;
-  left: 0%;
+  left: 5%;
 }
 .nft-container .box-nft1 img {
   width: 100%;

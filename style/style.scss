@@ -98,12 +98,12 @@ body{
 }
 
 @mixin nft-box{
-    width:100%;
+    width:90%;
     height: 365px;
     background-color: white;
     border-radius: 20px;
     position: absolute;
-    left:calc(50% - 50%);
+    left:calc(50% - 45%);
 
     img{
         width:100%;
