@@ -18,7 +18,7 @@ body{
 
 .body{
     overflow-y: auto;
-    height: 100vh;
+    height: 85vh;
 }
 
 .header{
@@ -27,6 +27,7 @@ body{
     left: 0;
     background-color: rgba(238, 241, 246,0.5);
     backdrop-filter: blur(5px);
+    z-index: 50;
 }
 .coin-box{
     width: 160px;
