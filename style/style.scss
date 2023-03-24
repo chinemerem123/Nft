@@ -118,12 +118,25 @@ body{
             width: 30px;
         }
         .name{
-            color:gray;
+            color:rgb(158, 158, 158);
             font-weight: bold; 
             margin-left: 5px; 
             margin-top: 5px; 
             font-size: 14px;    
          }
+    }
+
+    .last-col{
+        text-align: right;
+     .bid{
+        color:rgb(158, 158, 158);
+        font-size: 14px;
+        font-weight: 600;
+     }
+
+     .price{
+        font-weight: 600;
+     }
     }
 }
 

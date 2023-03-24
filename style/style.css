@@ -106,9 +106,20 @@ body {
   width: 30px;
 }
 .nft-container .box-nft1 .person .name {
-  color: gray;
+  color: rgb(158, 158, 158);
   font-weight: bold;
   margin-left: 5px;
   margin-top: 5px;
   font-size: 14px;
+}
+.nft-container .box-nft1 .last-col {
+  text-align: right;
+}
+.nft-container .box-nft1 .last-col .bid {
+  color: rgb(158, 158, 158);
+  font-size: 14px;
+  font-weight: 600;
+}
+.nft-container .box-nft1 .last-col .price {
+  font-weight: 600;
 }/*# sourceMappingURL=style.css.map */
