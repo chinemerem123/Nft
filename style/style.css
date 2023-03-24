@@ -53,6 +53,7 @@ body {
 }
 
 .search-bar {
+  position: relative;
   background-color: white;
   padding: 18px;
   border-radius: 50px;
@@ -60,4 +61,16 @@ body {
 }
 .search-bar .search {
   font-size: 20px;
+  color: black;
+}
+.search-bar input {
+  border: none;
+  margin-left: 8px;
+  color: rgb(173, 173, 173);
+}
+.search-bar .slide {
+  font-size: 20px;
+  position: absolute;
+  right: 20px;
+  color: black;
 }/*# sourceMappingURL=style.css.map */
