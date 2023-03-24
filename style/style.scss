@@ -99,13 +99,13 @@ body{
 
 @mixin nft-box{
     width:100%;
-    height: 350px;
+    height: 365px;
     background-color: white;
     border-radius: 20px;
 
     img{
         width:100%;
-        border-radius: 10px
+        border-radius: 10px;
     }
 }
 
