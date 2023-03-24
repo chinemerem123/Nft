@@ -55,12 +55,12 @@ body {
 .search-bar {
   position: relative;
   background-color: white;
-  padding: 18px;
+  padding: 16px;
   border-radius: 50px;
   box-shadow: 5px 5px 10px rgba(189, 189, 189, 0.2);
 }
 .search-bar .search {
-  font-size: 20px;
+  font-size: 17px;
   color: black;
 }
 .search-bar input {
@@ -71,6 +71,6 @@ body {
 .search-bar .slide {
   font-size: 20px;
   position: absolute;
-  right: 20px;
+  right: 17px;
   color: black;
 }/*# sourceMappingURL=style.css.map */
