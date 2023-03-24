@@ -16,6 +16,11 @@ body{
     background-color: #EEF1F6;
 }
 
+.body{
+    overflow-y: auto;
+    height: 100vh;
+}
+
 .header{
     position: sticky;
     top:0;
