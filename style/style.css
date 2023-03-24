@@ -68,6 +68,7 @@ body {
   margin-left: 8px;
   color: rgb(173, 173, 173);
   outline: none;
+  background-color: transparent;
 }
 .search-bar .slide {
   font-size: 20px;
