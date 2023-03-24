@@ -102,6 +102,8 @@ body{
     height: 365px;
     background-color: white;
     border-radius: 20px;
+    position: absolute;
+    left:calc(50% - 50%);
 
     img{
         width:100%;
@@ -110,6 +112,7 @@ body{
 }
 
 .nft-container{
+    position: relative;
     .box-nft1{
       @include nft-box();
     }
