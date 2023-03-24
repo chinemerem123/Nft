@@ -93,8 +93,22 @@ body {
   border-radius: 20px;
   position: absolute;
   left: 5%;
+  box-shadow: 5px 5px 10px rgba(189, 189, 189, 0.2);
 }
 .nft-container .box-nft1 img {
   width: 100%;
   border-radius: 10px;
+}
+.nft-container .box-nft1 .nft-name {
+  font-weight: bold;
+}
+.nft-container .box-nft1 .person img {
+  width: 30px;
+}
+.nft-container .box-nft1 .person .name {
+  color: gray;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 14px;
 }/*# sourceMappingURL=style.css.map */
