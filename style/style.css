@@ -94,6 +94,7 @@ body {
   position: absolute;
   left: 5%;
   box-shadow: 5px 5px 10px rgba(189, 189, 189, 0.2);
+  z-index: 30;
 }
 .nft-container .box-nft1 img {
   width: 100%;
@@ -121,5 +122,85 @@ body {
   font-weight: 600;
 }
 .nft-container .box-nft1 .last-col .price {
+  font-weight: 600;
+}
+.nft-container .box-nft2 {
+  width: 90%;
+  height: 365px;
+  background-color: white;
+  border-radius: 20px;
+  position: absolute;
+  left: 5%;
+  box-shadow: 5px 5px 10px rgba(189, 189, 189, 0.2);
+  z-index: 20;
+  transform: scale(0.9);
+  top: 50px;
+}
+.nft-container .box-nft2 img {
+  width: 100%;
+  border-radius: 10px;
+}
+.nft-container .box-nft2 .nft-name {
+  font-weight: bold;
+}
+.nft-container .box-nft2 .person img {
+  width: 30px;
+}
+.nft-container .box-nft2 .person .name {
+  color: rgb(158, 158, 158);
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 14px;
+}
+.nft-container .box-nft2 .last-col {
+  text-align: right;
+}
+.nft-container .box-nft2 .last-col .bid {
+  color: rgb(158, 158, 158);
+  font-size: 14px;
+  font-weight: 600;
+}
+.nft-container .box-nft2 .last-col .price {
+  font-weight: 600;
+}
+.nft-container .box-nft3 {
+  width: 90%;
+  height: 365px;
+  background-color: white;
+  border-radius: 20px;
+  position: absolute;
+  left: 5%;
+  box-shadow: 5px 5px 10px rgba(189, 189, 189, 0.2);
+  z-index: 10;
+  transform: scale(0.8);
+  top: 85px;
+}
+.nft-container .box-nft3 img {
+  width: 100%;
+  border-radius: 10px;
+}
+.nft-container .box-nft3 .nft-name {
+  font-weight: bold;
+}
+.nft-container .box-nft3 .person img {
+  width: 30px;
+}
+.nft-container .box-nft3 .person .name {
+  color: rgb(158, 158, 158);
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 14px;
+}
+.nft-container .box-nft3 .last-col {
+  text-align: right;
+}
+.nft-container .box-nft3 .last-col .bid {
+  color: rgb(158, 158, 158);
+  font-size: 14px;
+  font-weight: 600;
+}
+.nft-container .box-nft3 .last-col .price {
   font-weight: 600;
 }/*# sourceMappingURL=style.css.map */

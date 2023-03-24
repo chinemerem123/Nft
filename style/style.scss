@@ -144,5 +144,19 @@ body{
     position: relative;
     .box-nft1{
       @include nft-box();
+      z-index: 30;
     }
+    .box-nft2{
+        @include nft-box();
+        z-index: 20;
+        transform: scale(0.9);
+        top:50px;
+      }
+
+      .box-nft3{
+        @include nft-box();
+        z-index: 10;
+        transform: scale(0.8);
+        top:85px;
+      }
 }
